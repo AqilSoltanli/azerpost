@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="10px" viewBox="0 0 8 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Triangle</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="00.Azerpoct" transform="translate(-1667.000000, -945.000000)" fill="#FFFFFF">
+            <g id="Group-10" transform="translate(1650.000000, 930.000000)">
+                <path d="M23.9333333,20.8 L18.6,24.8 C18.1581722,25.1313708 17.5313708,25.0418278 17.2,24.6 C17.0701779,24.4269038 17,24.2163702 17,24 L17,16 C17,15.4477153 17.4477153,15 18,15 C18.2163702,15 18.4269038,15.0701779 18.6,15.2 L23.9333333,19.2 C24.3751611,19.5313708 24.4647042,20.1581722 24.1333333,20.6 C24.0764791,20.6758057 24.009139,20.7431458 23.9333333,20.8 Z" id="Triangle"></path>
+            </g>
+        </g>
+    </g>
+</svg>

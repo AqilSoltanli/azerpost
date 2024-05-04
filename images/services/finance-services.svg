@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="00.Azerpoct" transform="translate(-770.000000, -915.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Group-21" transform="translate(750.000000, 895.000000)">
+                <path d="M37,24 L34,24 L34,22 C34,20.9 33.1,20 32,20 L28,20 C26.9,20 26,20.9 26,22 L26,24 L23,24 C21.3,24 20,25.3 20,27 L20,37 C20,38.7 21.3,40 23,40 L37,40 C38.7,40 40,38.7 40,37 L40,27 C40,25.3 38.7,24 37,24 Z M28,22 L32,22 L32,24 L28,24 L28,22 Z M23,26 C28.1,26 31.8,26 37,26 C37.6,26 38,26.4 38,27 L38,29 L36,29 L36,28.9 C36,28.3 35.6,27.9 35,27.9 C34.4,27.9 34,28.3 34,28.9 L34,29 L26,29 L26,28.9 C26,28.3 25.6,27.9 25,27.9 C24.4,27.9 24,28.3 24,28.9 L24,29 L22,29 L22,27 C22,26.4 22.4,26 23,26 Z M37,38 L23,38 C22.4,38 22,37.6 22,37 L22,31 L24,31 C24,31.6 24.4,32 25,32 C25.6,32 26,31.6 26,31 L34,31 C34,31.6 34.4,32 35,32 C35.6,32 36,31.6 36,31 L38,31 L38,37 C38,37.6 37.6,38 37,38 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
